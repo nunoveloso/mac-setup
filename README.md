@@ -4,7 +4,7 @@ Receitas com maçãs.
 ## Applications
 
 ### Install to `Applications/local`
-- Chrome: https://www.google.com/chrome/browser/features.html
+- Browser [https://www.google.com/chrome/browser/features.html](Chrome).
   - add-ons:
     - AddBlock: https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom
     - Flash player: https://get.adobe.com/flashplayer/download/?installer=FP_27_Mac_for_Opera_and_Chromium_-_PPAPI&stype=7755&standalone=1
