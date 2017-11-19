@@ -1,13 +1,19 @@
 # Mac setup
 Receitas com maçãs.
 
+## System Preferences
+
+### Trackpad
+Tab `Scroll & zoom`:
+- [ ] Scroll direction: Natural
+
 ## Applications
 
 ### Install to `Applications/local`
 - [Chrome](https://www.google.com/chrome/browser/features.html)
   - disable annoying swipe navigation:
     ```
-    defaults write com.google.Chrome.plist AppleEnableSwipeNavigateWithScrolls -bool FALSE
+    defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool FALSE
     ```
     Then restart Chrome.
   - install add-on [AddBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom) - do not forget the [honour system](https://getadblock.com/installed)
