@@ -1,11 +1,44 @@
 # Mac setup
 Receitas com maçãs.
 
+
 ## System Preferences
+
+### Security & Privacy
+Tab `Privacy`:
+- [ ] Enable location services
+
+
+### Keyboard
+Tab `Shortcuts`, at the bottom: `Full keyboard access` set to `All controls`
+Tab `Input Sources`: add the keyboards of other languages.
+
 
 ### Trackpad
 Tab `Scroll & zoom`:
 - [ ] Scroll direction: Natural
+
+
+### Bluetooth
+- Turn off by default.
+- [x] Show Bluetooth in menu bar
+
+
+### Sharing
+Set the hostname.
+
+
+### Users & Groups
+Add a limited account for guests, etc.
+
+
+### Siri
+- [ ] Enable Ask Siri
+
+
+### Accessibility
+Tab `Zoom`:
+- [x] Use scroll gesture with modifier key to zoom: `^ Control`.
 
 ## Applications
 
