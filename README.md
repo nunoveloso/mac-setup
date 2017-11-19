@@ -54,3 +54,9 @@ Tab `Zoom`:
 - [Firefox](https://www.mozilla.org/en-GB/firefox/new/)
   - install add-on (https://addons.mozilla.org/en-US/firefox/addon/adblock-for-firefox/) - do not forget the [honour system](https://getadblock.com/installed)
   - install add-on [Fash player](https://get.adobe.com/flashplayer/?installer=FP_27_Mac_for_Safari_and_Firefox_-_NPAPI&stype=7755&standalone=1)
+  
+## Dev
+
+### Software
+
+- [iTerm2](https://www.iterm2.com/)
