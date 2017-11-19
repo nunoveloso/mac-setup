@@ -17,3 +17,6 @@ curl -O https://raw.githubusercontent.com/nunoveloso/mac-setup/master/.vimrc
 cd ~/.vim/bundle
 git clone git://github.com/tpope/vim-sensible.git
 
+# Projects directory
+mkdir ~/Sites
+mkdir ~/Projects
