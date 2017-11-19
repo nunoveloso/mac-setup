@@ -64,5 +64,5 @@ Tab `Zoom`:
 - [iTerm2](https://www.iterm2.com/)
   - Nice font: "[Consolas](https://github.com/nicolashery/mac-dev-setup/blob/master/README.md#consolas)"
   - Nice colourscheme: "[Solarized](http://ethanschoonover.com/solarized)" - shipped with iTerm2.
-
+- [Telegram](https://desktop.telegram.org/)
 
