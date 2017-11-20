@@ -71,9 +71,11 @@ Tab `Zoom`:
 - [Simplenote](https://simplenote.com/) (via AppStore)
 - [Skype](https://www.skype.com/en/new/)
 - [Slack](https://slack.com/download)
+- [Spotify](https://www.spotify.com/)
 - [Sublime Text 3](https://www.sublimetext.com/3)
   - User Settings (under Preferences)
-    ```json
+
+    ```json
     {
       "font_face": "Consolas",
       "font_size": 13,
