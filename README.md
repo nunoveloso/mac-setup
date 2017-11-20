@@ -72,6 +72,6 @@ Tab `Zoom`:
 - [Simplenote](https://simplenote.com/) (via AppStore)
 - [Slack](https://slack.com/download)
 - [Skype](https://www.skype.com/en/new/)
-
+- [Visual Studio Code](https://code.visualstudio.com/Download)
 
 - [uTorrent](http://www.utorrent.com/)
