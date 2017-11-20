@@ -72,6 +72,27 @@ Tab `Zoom`:
 - [Skype](https://www.skype.com/en/new/)
 - [Slack](https://slack.com/download)
 - [Sublime Text 3](https://www.sublimetext.com/3)
+  - User Settings (under Preferences)
+    ```
+    {
+      "font_face": "Consolas",
+      "font_size": 13,
+      "rulers":
+      [
+          79
+      ],
+      "highlight_line": true,
+      "bold_folder_labels": true,
+      "highlight_modified_tabs": true,
+      "tab_size": 2,
+      "translate_tabs_to_spaces": true,
+      "word_wrap": false,
+      "indent_to_bracket": true
+    }
+    ```
+  - Packages:
+    - Enable Package Control (`Cmd + Shift + P` -> `Install Package Control`).
+      To install a package: https://packagecontrol.io/, then `Cmd + Shift + P` -> `Install Package`.
 - [Telegram](https://desktop.telegram.org/)
 - [uTorrent](http://www.utorrent.com/)
 - [Visual Studio Code](https://code.visualstudio.com/Download)
