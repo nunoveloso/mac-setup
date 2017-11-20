@@ -68,5 +68,7 @@ Tab `Zoom`:
   - Nice colourscheme: "[Solarized](http://ethanschoonover.com/solarized)" - shipped with iTerm2.
 - [Telegram](https://desktop.telegram.org/)
 - [Simplenote](https://simplenote.com/)
+- [Slack](https://slack.com/download)
+
 
 - [uTorrent](http://www.utorrent.com/)
