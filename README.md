@@ -73,8 +73,7 @@ Tab `Zoom`:
 - [Slack](https://slack.com/download)
 - [Sublime Text 3](https://www.sublimetext.com/3)
   - User Settings (under Preferences)
-  
-    ```
+    ```json
     {
       "font_face": "Consolas",
       "font_size": 13,
