@@ -73,6 +73,7 @@ Tab `Zoom`:
 - [Slack](https://slack.com/download)
 - [Sublime Text 3](https://www.sublimetext.com/3)
   - User Settings (under Preferences)
+  
     ```
     {
       "font_face": "Consolas",
@@ -90,9 +91,14 @@ Tab `Zoom`:
       "indent_to_bracket": true
     }
     ```
+    
   - Packages:
     - Enable Package Control (`Cmd + Shift + P` -> `Install Package Control`).
-      To install a package: https://packagecontrol.io/, then `Cmd + Shift + P` -> `Install Package`.
+     - To install a package: https://packagecontrol.io/, then `Cmd + Shift + P` -> `Install Package`.
+     - Packages to install:
+       - [SublimeGit](https://packagecontrol.io/packages/SublimeGit)
+       - [MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing)
+       - [Markdown Preview](https://packagecontrol.io/packages/Markdown%20Preview)
 - [Telegram](https://desktop.telegram.org/)
 - [uTorrent](http://www.utorrent.com/)
 - [Visual Studio Code](https://code.visualstudio.com/Download)
