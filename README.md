@@ -64,6 +64,7 @@ Tab `Zoom`:
 
 ### Software
 
+- [Dropbox](https://www.dropbox.com/downloading)
 - [Homebrew](https://brew.sh/) (cf. `setup.sh`)
 - [iTerm2](https://www.iterm2.com/)
   - Nice font: "[Consolas](https://github.com/nicolashery/mac-dev-setup/blob/master/README.md#consolas)"
